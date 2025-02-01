@@ -85,13 +85,13 @@
       year: 2022
       description: 
       Appendix: <a href="/assets/pdf/Online_Appendix_Final_Version.pdf">Online Appendix</a>
-      Abstract: 'Conventional' monetary policy involves actions by the monetary and fiscal authorities: the
+      Abstract: 'Conventional' monetary policy involves actions by the monetary and fiscal authorities <a>:</a> the
                 former sets a nominal interest rate and the latter sets lump-sum taxes to finance the implied flow of
                 interest payments on government debt. We model such policy within an overlapping generations framework
                 and show that absent any other frictions the magnitude of the nominal interest rate gives rise
                 to asset substitution between government debt and either private debt or capital substitution which has
                 both real and nominal effects. Such substitution is not in standard New Keynesian models because those
-                models use a dynastic specification in which government debt is not net wealth."
+                models use a dynastic specification in which government debt is not net wealth.
 
 
 
