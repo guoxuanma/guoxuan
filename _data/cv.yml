@@ -84,8 +84,8 @@
     - title: <a href="/assets/pdf/IER2003_HMQW.pdf">"Conventional" Monetary Policy in OLG Models Revisiting the Asset-substitution Channel</a>
       year: 2022
       description: 
-        Appendix: <a href="/assets/pdf/Online_Appendix_Final_Version.pdf">Online Appendix</a>
-        Abstract: "Conventional monetary policy involves actions by the monetary and fiscal authorities \: the
+      Appendix: <a href="/assets/pdf/Online_Appendix_Final_Version.pdf">Online Appendix</a>
+      Abstract: "Conventional monetary policy involves actions by the monetary and fiscal authorities \: the
                 former sets a nominal interest rate and the latter sets lump-sum taxes to finance the implied flow of
                 interest payments on government debt. We model such policy within an overlapping generations framework
                 and show that absent any other frictions the magnitude of the nominal interest rate gives rise
@@ -102,7 +102,7 @@
     - title: <a href="/assets/pdf/jmp_GM.pdf">Young Firms�� Financing Choices, Investment, and Growth (JMP)</a>
       year: 2022
       description: 
-        Abstract: This paper investigates the impact of access to different financing choices on young firms'
+      Abstract: This paper investigates the impact of access to different financing choices on young firms'
                   future growth paths. According to the Kauffman Firm Survey data, over 2/3 of debt firms rely on credit
                   card borrowing in the first five years of development. I construct a firm life-cycle model with financing
                   constraints to address selection issues involved in the endogenous financing decisions. In this model,
@@ -119,7 +119,7 @@
     - title: <a href="/assets/pdf/draftv_GM.pdf">Information Asymmetry and Bidders' Behavior in Common Value English Auctions</a>
       year: 2022
       description:     
-        Abstract: In common value English auction, bidders may have different levels of private information
+      Abstract: In common value English auction, bidders may have different levels of private information
                   about the selling item. Due to the learning effect of the common value part, bidders with more
                   precise information may be able to manipulate the auction outcome through strategic bidding behavior.
                   However, English auctions are usually challenged by model incompleteness problem (Bikhchandani et
