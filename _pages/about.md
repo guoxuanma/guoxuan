@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Researcher of Economics <a href='http://rigvc.uibe.edu.cn/index.htm'>RIGVC</a>. 
+subtitle: Assistant Researcher of Economics <a href='https://rigvc.uibe.edu.cn'>RIGVC</a>. 
 
 profile:
   align: right
