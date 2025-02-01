@@ -82,10 +82,10 @@
   type: time_table
   contents: 
     - title: <a href="/assets/pdf/IER2003_HMQW.pdf">"Conventional" Monetary Policy in OLG Models Revisiting the Asset-substitution Channel</a>
-    year: 2022
-    description: 
-      Appendix: <a href="/assets/pdf/Online_Appendix_Final_Version.pdf">Online Appendix</a>
-      Abstract: "Conventional monetary policy involves actions by the monetary and fiscal authorities \: the
+      year: 2022
+      description: 
+        Appendix: <a href="/assets/pdf/Online_Appendix_Final_Version.pdf">Online Appendix</a>
+        Abstract: "Conventional monetary policy involves actions by the monetary and fiscal authorities \: the
                 former sets a nominal interest rate and the latter sets lump-sum taxes to finance the implied flow of
                 interest payments on government debt. We model such policy within an overlapping generations framework
                 and show that absent any other frictions the magnitude of the nominal interest rate gives rise
