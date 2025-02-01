@@ -85,7 +85,7 @@
       year: 2022
       description: 
       Appendix: <a href="/assets/pdf/Online_Appendix_Final_Version.pdf">Online Appendix</a>
-      Abstract: 'Conventional' monetary policy involves actions by the monetary and fiscal authorities <a>:</a> the
+      Abstract: 'Conventional' monetary policy involves actions by the monetary and fiscal authorities -- the
                 former sets a nominal interest rate and the latter sets lump-sum taxes to finance the implied flow of
                 interest payments on government debt. We model such policy within an overlapping generations framework
                 and show that absent any other frictions the magnitude of the nominal interest rate gives rise
@@ -119,16 +119,24 @@
     - title: <a href="/assets/pdf/draftv_GM.pdf">Information Asymmetry and Bidders' Behavior in Common Value English Auctions</a>
       year: 2022
       description:     
-      Abstract: In common value English auction, bidders may have different levels of private information
-                  about the selling item. Due to the learning effect of the common value part, bidders with more
-                  precise information may be able to manipulate the auction outcome through strategic bidding behavior.
-                  However, English auctions are usually challenged by model incompleteness problem (Bikhchandani et
-                  al., 2002). To overcomes the identification challenge, I utilize moment inequalities implied by the bidder��s
-                  bidding history to estimate the value distribution and develop a structural econometric model to
-                  study the effect of information asymmetry on bidding behavior. The paper finds that the information
-                  premium mainly comes from the informed bidder��s screening effect and is independent of the number
-                  of participants. Applying the data from Chinese Justice Auction, the estimation result shows that the
-                  noisy part in signal is very large.
+      Abstract: In the canonical common value English auction with asymmetric information, the identity of the
+                insider is assumed to be mandatory known by the public and thus her existence often induces
+                more aggressive competition. However, when the identity revelation is not enforceable, the
+                insider can choose whether to reveal or not based on strategic interactions with her rivals. This
+                could have no trivial impact on bidding outcomes. empirical evidence from Chinese Judicial
+                Auction for real estate shows that the winning price declines when the insider voluntarily reveal
+                her identity. To reconcile the conflicts between the data and theory, we introduce the information
+                revelation decision process into the standard theoretical framework. Our model shows that
+                the insider may reveal her identity when she receives a bad or very good signal. Also, the
+                impact from the informed bidder decreases as the number of participants increases and the
+                effect depends on the level of information frictions. Based on the theoretical framework, we
+                overcome the identification challenge and construct parametric structure estimation algorithm
+                to recover the value function distribution. Our estimation results find that first, common value
+                part dominates the bidder's private value part of the selling house. Second, the noisy component
+                is nontrivial. These two features give the informed bidder's opportunity to take advantage of
+                strategic bidding. Informed bidder can leverage her information advantage to influence the
+                bidding activities. For example, adopting both active and inactive bidding strategies, the insider
+                can shift the winning price distribution leftward by dampening the bidding competition.
 
 
 - title: Honors and Awards
