@@ -78,13 +78,31 @@
 #       institution: University of Zurich, Zurich, Switzerland
 #       year: 1909 - 1911
 
+- title: Publication 
+  type: time_table
+  contents: 
+    - title: <a href="/assets/pdf/IER2003_HMQW.pdf">"Conventional" Monetary Policy in OLG Models Revisiting the Asset-substitution Channel</a>
+    year: 2022
+    description: 
+      Appendix: <a href="/assets/pdf/Online_Appendix_Final_Version.pdf">Online Appendix</a>
+      Abstract: "Conventional monetary policy involves actions by the monetary and fiscal authorities \: the
+                former sets a nominal interest rate and the latter sets lump-sum taxes to finance the implied flow of
+                interest payments on government debt. We model such policy within an overlapping generations framework
+                and show that absent any other frictions the magnitude of the nominal interest rate gives rise
+                to asset substitution between government debt and either private debt or capital substitution which has
+                both real and nominal effects. Such substitution is not in standard New Keynesian models because those
+                models use a dynastic specification in which government debt is not net wealth."
+
+
+
+
 - title: Working Paper
   type: time_table
   contents:
-    - title: <a href="/assets/pdf/jmp_GM.pdf">Young Firms¡¯ Financing Choices, Investment, and Growth (JMP)</a>
+    - title: <a href="/assets/pdf/jmp_GM.pdf">Young Firmsï¿½ï¿½ Financing Choices, Investment, and Growth (JMP)</a>
       year: 2022
       description: 
-        Abstract: This paper investigates the impact of access to different financing choices on young firms¡¯
+        Abstract: This paper investigates the impact of access to different financing choices on young firms'
                   future growth paths. According to the Kauffman Firm Survey data, over 2/3 of debt firms rely on credit
                   card borrowing in the first five years of development. I construct a firm life-cycle model with financing
                   constraints to address selection issues involved in the endogenous financing decisions. In this model,
@@ -98,34 +116,19 @@
                   borrowing to clear their outstanding debt. When the financing cost is not too high for business loan
                   borrowers, this selection mechanism can shift the firm size distribution to the right.
 
-    - title: <a href="/assets/pdf/draftv2.32.pdf">Information Asymmetry and Bidders¡¯ Behavior in Common Value English Auctions</a>
+    - title: <a href="/assets/pdf/draftv_GM.pdf">Information Asymmetry and Bidders' Behavior in Common Value English Auctions</a>
       year: 2022
-      description: 
-      
+      description:     
         Abstract: In common value English auction, bidders may have different levels of private information
                   about the selling item. Due to the learning effect of the common value part, bidders with more
                   precise information may be able to manipulate the auction outcome through strategic bidding behavior.
                   However, English auctions are usually challenged by model incompleteness problem (Bikhchandani et
-                  al., 2002). To overcomes the identification challenge, I utilize moment inequalities implied by the bidder¡¯s
+                  al., 2002). To overcomes the identification challenge, I utilize moment inequalities implied by the bidderï¿½ï¿½s
                   bidding history to estimate the value distribution and develop a structural econometric model to
                   study the effect of information asymmetry on bidding behavior. The paper finds that the information
-                  premium mainly comes from the informed bidder¡¯s screening effect and is independent of the number
+                  premium mainly comes from the informed bidderï¿½ï¿½s screening effect and is independent of the number
                   of participants. Applying the data from Chinese Justice Auction, the estimation result shows that the
                   noisy part in signal is very large.
-
-    - title: <a href="/assets/pdf/Conventional_Monetary_Policy_Final_Version.pdf">¡®Conventional¡¯ Monetary Policy in OLG Models Revisiting the Asset-substitution Channel</a>
-      year: 2022
-      description: 
-        Appendix: <a href="/assets/pdf/Online_Appendix_Final_Version.pdf">Online Appendix </a>
-        Abstract: "Conventional monetary policy involves actions by the monetary and fiscal authorities \: the
-                  former sets a nominal interest rate and the latter sets lump-sum taxes to finance the implied flow of
-                  interest payments on government debt. We model such policy within an overlapping generations framework
-                  and show that absent any other frictions the magnitude of the nominal interest rate gives rise
-                  to asset substitution between government debt and either private debt or capital¨Csubstitution which has
-                  both real and nominal effects. Such substitution is not in standard New Keynesian models because those
-                  models use a dynastic specification in which government debt is not net wealth."
-
-
 
 
 - title: Honors and Awards
